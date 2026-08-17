@@ -3,6 +3,17 @@
 
 ---
 
+## 📌 Program Overview
+
+During this academic exchange program at Guangxi Minzu University, I participated in an immersive cross-cultural learning experience designed to enhance global perspective, linguistic competence, and cultural understanding. Key activities and highlights included:
+
+* **Academic & Language Classes:** Engaged in Chinese language coursework to build foundational communication skills and academic knowledge.
+* **Traditional Arts & Cultural Workshops:** Hands-on experience with traditional Chinese calligraphy, brush painting, and fan design to gain a deeper understanding of classical Chinese artistic traditions.
+* **Cultural Excursions & Field Trips:** Visited key cultural landmarks, including the Guangxi Nationalities Museum, to study local history, regional customs, and interactive heritage exhibits.
+* **Cross-Cultural Exchange & Collaboration:** Interacted with local instructors and international peers, fostering cross-cultural team cooperation, communication skills, and lifelong friendships.
+
+---
+
 ### 📜 Official Announcement & Certificate of Completion
 <p align="center">
   <img src="images/1.jpg" width="45%" />
@@ -29,11 +40,13 @@
 
 ### 🏛️ Cultural Museum Study & Field Trips
 <p align="center">
-  <img src="images/44.jpg" width="20%" />
-  <img src="images/3.jpg" width="20%" />
+  <img src="images/10.jpg" width="45%" />
+  <br>
+  <img src="images/44.jpg" width="22%" />
+  <img src="images/3.jpg" width="22%" />
 </p>
 <p align="center">
-  <i>Exploring Artifacts and Interactive Digital Displays at Guangxi Museum</i>
+  <i>Weekend cultural field trip and group study at the Guangxi Nationalities Museum</i>
 </p>
 
 ---
