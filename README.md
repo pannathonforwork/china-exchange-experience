@@ -3,7 +3,7 @@
 
 ---
 
-### 📜 Certificate of Completion & Official Announcement
+### 📜 Official Announcement & Certificate of Completion
 <p align="center">
   <img src="images/1.jpg" width="45%" />
   <img src="images/certificate-GXU.jpg" width="48%" />
@@ -16,19 +16,21 @@
 
 ### 🖌️ Chinese Calligraphy & Cultural Workshops
 <p align="center">
-  <img src="images/5.jpg" width="45%" />
   <img src="images/2.jpg" width="45%" />
+  <img src="images/5.jpg" width="14.25%" />
+  <img src="images/8.jpg" width="45%" />
+  <img src="images/9.jpg" width="37.5%" />
 </p>
 <p align="center">
-  <i>Hands-on Chinese Calligraphy Session and Group Exhibition with Classmates</i>
+  <i>Practicing traditional Chinese calligraphy and brush painting during interactive cultural workshops</i>
 </p>
 
 ---
 
 ### 🏛️ Cultural Museum Study & Field Trips
 <p align="center">
-  <img src="images/44.jpg" width="35%" />
-  <img src="images/3.jpg" width="35%" />
+  <img src="images/44.jpg" width="20%" />
+  <img src="images/3.jpg" width="20%" />
 </p>
 <p align="center">
   <i>Exploring Artifacts and Interactive Digital Displays at Guangxi Museum</i>
@@ -38,7 +40,8 @@
 
 ### 🤝 Friendship & Cross-Cultural Collaboration
 <p align="center">
-  <img src="images/6.jpg" width="45%" />
+  <img src="images/6.jpg" width="33.5%" />
+  <img src="images/7.jpg" width="44.75%" />
 </p>
 <p align="center">
   <i>Building Friendships and Cross-Cultural Communication with International Peers</i>
