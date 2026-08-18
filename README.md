@@ -1,6 +1,5 @@
-# China Exchange Program Experience
+# <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e8-1f1f3.png" width="18" height="18" valign="middle"> China Exchange Program Experience
 **Guangxi Minzu University (广西民族大学) | May 31 – June 8, 2026**
-
 ---
 
 ## 📌 Program Overview
